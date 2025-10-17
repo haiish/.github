@@ -1,8 +1,8 @@
 # OpenSourceSocialMedia 🌐💻
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) 📜
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepo.svg)](https://github.com/yourusername/yourrepo/stargazers) ⭐
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/yourrepo.svg)](https://github.com/yourusername/yourrepo/issues) 🐛
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) 
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepo.svg)](https://github.com/yourusername/yourrepo/stargazers) 
+[![GitHub issues](https://img.shields.io/github/issues/yourusername/yourrepo.svg)](https://github.com/yourusername/yourrepo/issues) 
 
 ## Overview 🚀
 
