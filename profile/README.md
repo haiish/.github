@@ -1,9 +1,3 @@
-# OpenSourceSocialMedia 🌐💻
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepo.svg)](https://github.com/yourusername/yourrepo/stargazers) 
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/yourrepo.svg)](https://github.com/yourusername/yourrepo/issues) 
-
 ## Overview 🚀
 
 This project is an **open-source social media platform**  that is fully **community-driven** . Built with collaboration  in mind, it empowers users , developers , and contributors  to shape its future . Whether you're sharing ideas , connecting with others , or building custom features , this platform thrives on collective input  and transparency .
